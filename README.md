@@ -9,7 +9,7 @@ This repository contains data and code to replicate the analysis in the paper: N
 
 The data used for the analysis are:
 
-+ “youngercohort.dta”
++ “panel_village_facility_2010-2016 long v12.dta”
 > This file contains data on preschools in rural villages in Indonesia. Panel data with three waves collected in 2010, 2013, and 2016. 
 
 The raw data sets from which these dta files were constructed can be accessed here: [2010](https://microdata.worldbank.org/index.php/catalog/3535), [2013](https://microdata.worldbank.org/index.php/catalog/3536), and [2016](https://microdata.worldbank.org/index.php/catalog/3537).
